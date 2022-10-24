@@ -11,7 +11,7 @@ I'm [Keerti ](https://www.linkedin.com/in/keerti-gupta-907793202/)!, a passionat
 - 🤝Ask anything, would love to help if I can.<br>
 - 🏢Available for Internships.<br>
 - 📝Resume -> <a href="https://drive.google.com/file/d/1InZvcPQY2on1OHdD3gjQSWSqF9DH8oly/view?usp=sharing/view"><img align="center" alt="Keerti's Resume" width="35px" src="Assets/resume.png" /></a><br>
-- 📝My Website -> <a href="indexhtml.keertigupta.repl.co"><img align="center" alt="Hamdan's Resume" width="35px" src="website.jpg" /></a><br>
+- 📝My Website -> <a href="indexhtml.keertigupta.repl.co"><img align="center" alt="Keerti's Resume" width="35px" src="website.jpg" /></a><br>
 <hr>
 <h2> connet  with me through <h2>
 <a href="https://www.linkedin.com/in/keerti-gupta-907793202/">
