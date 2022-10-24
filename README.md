@@ -47,9 +47,7 @@ I'm [Keerti ](https://www.linkedin.com/in/keerti-gupta-907793202/)!, a passionat
       </a>
      </td>
     <td>
-      
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keertijanm&theme=dark&show_icons=true">
-      
     </td>
   </tr>
  
