@@ -3,9 +3,10 @@
 
 ## About Me
 
-I am final year student with strong academic performance and a passion for technology. 
-Proficient in programming languages such as Java,C, and python, as well as web development technologies including HTML, CSS, and JavaScript.
-Seeking an opportunity to gain hands-on experience in a professional setting and contribute to a dynamic team. I'm always looking for ways to improve my skills and showcase my work.
+- I am final year student with strong academic performance and a passion for technology. 
+- Proficient in programming languages such as Java,C, and python, as well as web development technologies including HTML, CSS, and JavaScript.
+- I am looking for an opportunity to gain hands-on experience in a reputable company and contribute to a dynamic team. 
+- I'm always looking for ways to improve my skills and showcase my work.
 
 ## Skills and Technologies
 - Java
