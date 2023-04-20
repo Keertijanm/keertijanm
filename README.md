@@ -32,7 +32,7 @@ Seeking an opportunity to gain hands-on experience in a professional setting and
 - Data Structures - <a href ="https://www.coursera.org/account/accomplishments/verify/6JFZELTPEKS8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"> Certification by Coursera </a>
 
 # My projects-
-
+please click on toggle buttone 👆 for project demo and github links for project detail.
 <hr>
 
 <details>
