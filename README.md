@@ -3,10 +3,32 @@
 
 ## About Me
 
-- I am final year student with strong academic performance and a passion for technology. 
-- Proficient in programming languages such as Java,C, and python, as well as web development technologies including HTML, CSS, and JavaScript.
-- I am looking for an opportunity to gain hands-on experience in a reputable company and contribute to a dynamic team. 
-- I'm always looking for ways to improve my skills and showcase my work.
+I'm a Software Engineer with 2+ years of hands-on experience building scalable full-stack web applications, leading QA automation initiatives, and contributing to AI/ML-integrated systems. I enjoy working at the intersection of development, testing, and DevOps — where robust systems and clean code meet real-world impact.
+
+🔧 Tech Stack
+Languages: Python, JavaScript, TypeScript, HTML, CSS, SQL
+Frameworks/Libraries: React, Next.js, Node.js, Selenium, Behave (BDD), OpenCV, YOLOv8
+Tools & Platforms: Git, Bitbucket, Redis, Nginx, Postman, JIRA, Confluence, Allure
+Practices: Agile, BDD, Automation, E2E Testing, CI/CD, Cross-team Collaboration
+
+🚀 What I Work On
+
+* 🧩 Building internal tools and web dashboards that automate business processes
+* 🧪 Designing automation frameworks for staging/production-level QA
+* ⚙️ Deploying full-stack tools using DevOps pipelines and cron-based task schedulers
+* 👁️‍🗨️ Contributing to smart visual QA tools with computer vision and ML integration
+* 🧠 Continuously learning about scalable systems, GCP, and production engineering best practices
+
+💬 What I Love
+Clean architecture, reusable code, test-driven workflows, developer-friendly tools, meaningful collaboration, and always staying curious.
+
+📫 Let's Connect
+
+* LinkedIn: [https://linkedin.com/in/keertijanm](https://linkedin.com/in/keertijanm)
+* GitHub: [https://github.com/Keertijanm](https://github.com/Keertijanm)
+* Email: [keertigupta099@gmail.com](mailto:keertigupta099@gmail.com)
+
+
 
 ## Skills and Technologies
 - Java
